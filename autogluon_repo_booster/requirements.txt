@@ -1,2 +1,0 @@
-autogluon>=1.0
-kaggle
