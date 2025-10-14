@@ -1,1 +1,0 @@
-Included six Colab notebooks with outputs, artifacts (leaderboards, feature importances, and a Kaggle submission for IEEE-CIS Fraud), and short videos demonstrating my own runs and minor enhancements. Artifacts are in /artifacts and notebooks are in /colabs.
