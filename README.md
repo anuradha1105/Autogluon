@@ -92,9 +92,5 @@ See `VIDEO_SCRIPT.md` for the talking script.
 - `artifacts/` contains proof of execution.  
 
 ---
-
-## 🪪 Author
-**Anuradha**  
-MSSE – San José State University  
-Course: Data Mining / CMPE-272  
+ 
 
