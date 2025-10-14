@@ -5,7 +5,6 @@ This repository demonstrates **AutoGluon** for multiple machine learning tasks:
 - 🏠 **California Housing Prices** — regression  
 - ⚡ Official AutoGluon tutorials — Quick Start, In-Depth, Multimodal Tabular, and Automatic Feature Engineering  
 
-These notebooks are part of the **Data Mining assignment** for CMPE-272 / MSSE coursework at SJSU.
 
 ---
 
@@ -44,7 +43,7 @@ These notebooks are part of the **Data Mining assignment** for CMPE-272 / MSSE c
 - Pandas, NumPy
 
 ### 🎥 Video Tutorial
-Explains each Colab in 1–2 minutes, showing successful runs, outputs, and generated artifacts.
+
 
 
 
