@@ -1,9 +1,9 @@
 # 🧠 AutoGluon Colabs — Data Mining Assignment
 
 This repository demonstrates **AutoGluon** for multiple machine learning tasks:
-- 🧩 **Kaggle IEEE-CIS Fraud Detection** — binary classification  
-- 🏠 **California Housing Prices** — regression  
-- ⚡ Official AutoGluon tutorials — Quick Start, In-Depth, Multimodal Tabular, and Automatic Feature Engineering  
+- **Kaggle IEEE-CIS Fraud Detection** — binary classification  
+- **California Housing Prices** — regression  
+- Official AutoGluon tutorials — Quick Start, In-Depth, Multimodal Tabular, and Automatic Feature Engineering  
 
 
 ---
