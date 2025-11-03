@@ -21,9 +21,6 @@ This repository demonstrates **AutoGluon** for multiple machine learning tasks:
 
 ---
 
-## 📂 Repository Structure
-
-
 
 ### 1️⃣ IEEE Fraud Detection (Tabular Classification)
 - **Notebook:** [`colabs/01_ieee-fraud-autogluon.ipynb`](colabs/01_ieee-fraud-autogluon.ipynb)
@@ -41,6 +38,44 @@ This repository demonstrates **AutoGluon** for multiple machine learning tasks:
 - AutoGluon 1.4.0
 - Scikit-learn datasets
 - Pandas, NumPy
+
+## 🚀 Overview
+
+AutoGluon is an open-source AutoML library from AWS that automatically handles:
+- 🔍 Data preprocessing, feature encoding, and feature engineering  
+- 🤖 Model training, hyperparameter optimization, and ensembling  
+- 📊 Leaderboards, evaluation metrics, and model explainability  
+
+All notebooks below were run in Colab and checked in with **outputs visible** for reproducibility.
+
+---
+
+| 🔧 **B4 Automatic Feature Engineering** | Showcases AutoGluon’s **automatic feature generator**. It creates, transforms, and prunes features for better accuracy. <br>💡 Cells: install → load data → auto-feature gen → train → feature report → save. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/autogluon/autogluon/blob/stable/docs/tutorials/tabular/tabular-feature-engineering.ipynb) |
+
+---
+
+## 🏁 How to Run
+
+```bash
+# in Colab or local
+!pip install autogluon
+```
+
+Then open any notebook and run cells sequentially.  
+Each notebook is independent and self-contained.
+
+---
+
+## 📦 Artifacts and Outputs
+- Model artifacts are saved to `autogluon/outputs/`  
+- Example files:
+  - `ieee_fraud_submission.csv`
+  - `california_leaderboard.csv`
+  - `california_test_predictions.csv`
+
+---
+
+
 
 
 
