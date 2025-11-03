@@ -42,7 +42,7 @@ This repository demonstrates **AutoGluon** for multiple machine learning tasks:
 - Scikit-learn datasets
 - Pandas, NumPy
 
-### 🎥 Video Tutorial
+
 
 
 
